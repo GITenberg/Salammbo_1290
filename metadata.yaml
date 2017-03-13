@@ -1,5 +1,8 @@
 _repo: Salammbo_1290
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Flaubert, Gustave
@@ -20,6 +23,8 @@ description: "Salammbô (1862) is a historical novel by Gustave Flaubert. It is 
   \ costumes described in it even left traces on the fashions of the time. Nevertheless,\
   \ in spite of its classic status in France, it is not widely known today among English\
   \ speakers.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1290#Salammbo
 gutenberg_bookshelf:
 - Historical Fiction
 - Banned Books from Anne Haight's list
